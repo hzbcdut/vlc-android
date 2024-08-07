@@ -1229,10 +1229,10 @@
 
 
 
-    <string name="enable_tap_and_hold_fastplay_title">Enable Fastplay</string>
-    <string name="enable_tap_and_hold_fastplay_summary">Tap and hold to increase the playback speed</string>
-    <string name="fastplay_speed_title">Fastplay speed</string>
-    <string name="fastplay_title">Playing at %sx</string>
+    <string name="enable_tap_and_hold_fastplay_title">倍速播放</string>
+    <string name="enable_tap_and_hold_fastplay_summary">长按保持倍速</string>
+    <string name="fastplay_speed_title">播放速度</string>
+    <string name="fastplay_title">快进中 %sx</string>
     <string name="fastplay_subtitle">Release to stop</string>
 
     <string name="aout_aaudio" translatable="false">AAudio</string>
