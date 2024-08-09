@@ -22,7 +22,7 @@
     <string name="sortby_media_number">媒体数目</string>
     <string name="sortby_number">轨道编号</string>
     <string name="searchable_hint">搜索…</string>
-    <string name="history">历史</string>
+    <string name="history">历史记录</string>
 
     <string name="sort_alpha_asc">A → Z</string>
     <string name="sort_alpha_desc">Z → A</string>
